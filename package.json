@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-2",
+  "version": "1.0.0",
+  "description": "My Test Site",
+  "main": "index.js",
+  "repository": "https://github.com/hamishwillee/px4_user_guide",
+  "author": "Hamish Willee",
+  "license": "TBD",
+  "private": false,
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
