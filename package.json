@@ -1,11 +1,11 @@
 {
-  "name": "vuepress-2",
+  "name": "HPX4test",
   "version": "1.0.0",
   "description": "My Test Site",
   "main": "index.js",
-  "repository": "https://github.com/hamishwillee/px4_user_guide",
+  "repository": "https://github.com/hamishwillee/px4_vuepress",
   "author": "Hamish Willee",
-  "license": "TBD",
+  "license": "MIT",
   "private": false,
   "devDependencies": {
     "vuepress": "^1.5.4"
