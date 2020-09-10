@@ -1,5 +1,7 @@
 # PX4 User Guide
 
+Rendering at https://hamishwillee.github.io/px4_vuepress/en/getting_started/
+
 This repo contains the source code for the [PX4 User Guide](https://docs.px4.io/en/).  
 The guide is intended for people who want to:
 
