@@ -9,6 +9,37 @@ This page lists all supported airframes and types including
  the motor assignment and numbering. The motors in **green** rotate clockwise,
  the ones in **blue** counterclockwise.
 
+## Airship
+
+### Airship
+
+<div>
+<img src="../../assets/airframes/types/Airship.svg" width="29%" style="max-height: 180px;"/>
+<table style="float: right; width: 70%; font-size:1.5rem;">
+ <colgroup><col></colgroup>
+ <thead>
+   <tr><th>Common Outputs</th></tr>
+ </thead>
+<tbody>
+<tr>
+ <td style="vertical-align: top;"><ul><li><b>MAIN1</b>: starboard thruster</li><li><b>MAIN2</b>: port thruster</li><li><b>MAIN3</b>: thrust tilt</li><li><b>MAIN4</b>: tail thruster</li></ul></td>
+</tr>
+</tbody></table>
+</div>
+
+<table style="width: 100%; table-layout:fixed; font-size:1.5rem;">
+ <colgroup><col style="width: 30%"><col style="width: 70%"></colgroup>
+ <thead>
+   <tr><th>Name</th><th></th></tr>
+ </thead>
+<tbody>
+<tr id="airship_airship_cloudship">
+ <td style="vertical-align: top;">Cloudship</td>
+ <td style="vertical-align: top;"><p>Maintainer: John Doe <john@example.com></p><p><code>SYS_AUTOSTART</code> = 2507</p></td>
+
+</tr>
+</tbody></table>
+
 ## Autogyro
 
 ### Autogyro
@@ -949,8 +980,8 @@ This page lists all supported airframes and types including
  <td style="vertical-align: top;"><p>Maintainer: Timothy Scott</p><p><code>SYS_AUTOSTART</code> = 50003</p><p><b>Specific Outputs:</b><ul><li><b>MAIN0</b>: Speed of left wheels</li><li><b>MAIN1</b>: Speed of right wheels</li></ul></p></td>
 
 </tr>
-<tr id="rover_rover_df_robot_gpx:asurada">
- <td style="vertical-align: top;">DF Robot GPX:Asurada</td>
+<tr id="rover_rover_nxp_cup_car:_df_robot_gpx">
+ <td style="vertical-align: top;">NXP Cup car: DF Robot GPX</td>
  <td style="vertical-align: top;"><p>Maintainer: Katrin Moritz</p><p><code>SYS_AUTOSTART</code> = 50004</p><p><b>Specific Outputs:</b><ul><li><b>MAIN2</b>: Steering servo</li><li><b>MAIN3</b>: Speed of left wheels</li><li><b>MAIN4</b>: Speed of right wheels</li></ul></p></td>
 
 </tr>

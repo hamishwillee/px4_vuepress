@@ -2,7 +2,7 @@
 
 This quick start guide shows how to power the [Holybro Pix32v5](../flight_controller/holybro_pix32_v5.md)<sup>&reg;</sup> flight controller and connect its most important peripherals.
 
-![Pix32 v5 With Base](../../assets/flight_controller/holybro_pix32_v5/IMG_3165.JPG)
+![Pix32 v5 With Base](../../assets/flight_controller/holybro_pix32_v5/IMG_3165.jpg)
 
 ## Unboxing
 
@@ -155,11 +155,7 @@ General configuration information is covered in: [Autopilot Configuration](../co
 
 QuadPlane specific configuration is covered here: [QuadPlane VTOL Configuration](../config_vtol/vtol_quad_configuration.md)
 
-<!-- what about config of other vtol types and plane. Do the instructions in these ones above apply for tailsitters etc? --> 
-
-<!--## Detailed Wiring Infographic (Copter) 
-
-![QuadCopter Pixhawk Wiring Infographic](../../images/pixhawk_infographic2.jpg) --> 
+<!-- Nice to have detailed wiring infographic and instructions for different vehicle types. --> 
 
 ## Further information
 
